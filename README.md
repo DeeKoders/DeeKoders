@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h2 align="center">A passionate frontend developer from Pakistan</h2>
+<h3 align="center">Student of BS Software Engineering at Institute of Management Sciences(IMSciences), Peshawar !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekoders&label=Profile%20views&color=0e75b6&style=flat" alt="deekoders" /> </p>
 
