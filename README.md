@@ -2,7 +2,7 @@
 <h2 align="center">A passionate frontend developer from Pakistan</h2>
 <h3 align="center">Student of BS Software Engineering at Institute of Management Sciences(IMSciences), Peshawar !!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deekoders&label=Profile%20views&color=0e75b6&style=flat" alt="deekoders" /> </p>
+
 
 - 🔭 I’m currently working on **my Final Year Project for Graduation.**
 
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deekoders&show_icons=true&locale=en&layout=compact" alt="deekoders" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deekoders&show_icons=true&locale=en" alt="deekoders" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deekoders&label=Profile%20views&color=0e75b6&style=flat" alt="deekoders" /> </p>
