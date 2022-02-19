@@ -1,5 +1,6 @@
+<img scr="https://lh3.googleusercontent.com/72V_Go4B4zb2aruiOdJW_ond61u1zvn860EHxRiik86nJEyLP6E7ECZA53TO4-49iXnpCim380pSHF2YudSmGZJXwp-w25kYqswOHiskopJiONcW36zdwM3CCMz470Tpry6xffbWJrx57URi3bhHfHn-S6T0B7BSMWf42B2ER4LIJyLhWihNWadvV7Bd1-ZAcUoZ_TGNQe7Kq7udTshHWKB_4Bt9p-uEXQQ-G-K4FBf53lHrDY1O_8PGt6qElWA69y4IihTbg99kdmvMASRWZOrsn61g470KlT1bbghko7N8NKlWjLGrVvtSCsnDB5d9mP1-msPOzLn1d42GTiIuZk_gaZpDcDS5wHiF6s-8rrg1A2z8csyiWJvuldeCT5fCbdGP62I7ACiS0SbRRccCpumZempX3jBQrmZHq0_LtC5fxFleec9yx8OCXsQo3bpchWoIo6ACQKW867X-hWqcLiMj2TPFzuixXx7qQwI6Ey4JlxdFEAhUcw-Eysj8NGqbRbWQyFKaQq0m6K-fV-BKiXTGbbrpmFHdrKpdCWBPBdAX1VsJ09SZYhnohjCSA1PkCEO_qpD-gTeBU87Qwm9EdtXeKlMMTjYgMXJFd5TXz2EIOWJ73nQdX6DzJl_pwfrDRiFvexsGzd1dCbUsh6ECLqncsH5w5nJy-Zz-OZfMNJ-YqUZ1Nve73W-AB-9NfiSwRJbVrPIkQiR4M3ObxMRzKLE=s328-no?authuser=0"/>
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
-<h2 align="center">A passionate frontend developer from Pakistan</h2>
+<h2 align="center">A Passionate Front-End Developer from Pakistan !!</h2>
 <h3 align="center">Student of BS Software Engineering at Institute of Management Sciences(IMSciences), Peshawar !!</h3>
 
 
