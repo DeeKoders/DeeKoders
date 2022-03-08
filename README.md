@@ -1,5 +1,5 @@
 
-<p align="center"> <img  src="https://lh3.googleusercontent.com/eVwqz6nPYU0oeqFrNIEbz2T6ekJTMwvBkgEvgHfbK_tumyLRSoJtJJ9out804_T1d2w1gwh_1EFsZ5YgH9j5nNylMg824-6brJ7nQYKYC4q4AuaGjL7SSnCuHvhBgXC2TW94piEvTWV3xqk_gdQ188pMMUYjAhb8l4Qauz9yl0muKv_cvRImNrFC5Qa4bPL1leUpr0oc-6pBW8zrol4dtvZHpEm0LwL2WGVsyP5jg_bqX8ptO3w5b2IVEXLRr87Po-HYanNaYXmopdP2DN0HlJNJSg7mO7F0LLAAnPRu9odT_LEdmi_162vPDeWvH_PSUWZzy6_x9kK4kA4XWtZL7FpsW0l5exlMl5aaDZKbdoL1TXDwb3WNkp5seMZ_36Z3IMYbNmpuKCnqd7Vlc29jKi6SGoOdunpxAq-pCL0SmI9doNEO_YV0CAMHRswfq-UvIOAfeviuh-27nEsnaHwbPVx28auh0vQZ0AadKvK4hZ8WXuVIyovUuCBFKnB-MN8rGOTQeBMQ7mh-GRMmNVKmtyYTHjEQvNtewk6Cfaw8uHqDfZHfEPNk8ridD5rEFnXyU32dPi0Pdo_OCuq4Sqg2h2SqljtnHm-R5DXD0I_z0zCgkwW5e_nRqbohwmfyVJpxjUkcvWeNAqGH_8kChRzMbt5bbYaxgc7fjna1TAzdeGaJ9QzCLMWMo8jeGFbtZogiDDwJEsO6i0sSZZ71G4kOZ8RPfA=s657-no?authuser=0" alt="deekoders" /> </p>
+<p align="center"> <img  src="https://firebasestorage.googleapis.com/v0/b/awanbirds-80258.appspot.com/o/images%2FDeeKodersM.jpg?alt=media&token=ffa740be-7e09-4dfc-af70-8c4100a011d6" alt="deekoders" /> </p>
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
 <h2 align="center">A Passionate Front-End Developer from Pakistan !!</h2>
 <h3 align="center">Student of BS Software Engineering at Institute of Management Sciences(IMSciences), Peshawar !!</h3>
