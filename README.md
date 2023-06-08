@@ -7,11 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **my Final Year Project for Graduation.**
+- 🔭 I’m currently working as **Associate Fullstack Engineer** at **ProductBox**.
 
-- 🌱 I’m currently learning **React JS, MERN Stack**
-
-- 📫 How to reach me **danyal.imsciences@gmail.com**
+- 📫 How to reach me **deekoders@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
