@@ -1,8 +1,7 @@
 
 <p align="center"> <img  src="https://firebasestorage.googleapis.com/v0/b/awanbirds-80258.appspot.com/o/images%2FDeeKodersM.jpg?alt=media&token=ffa740be-7e09-4dfc-af70-8c4100a011d6" alt="deekoders" /> </p>
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
-<h2 align="center">A Passionate Front-End Developer from Pakistan !!</h2>
-<h3 align="center">Student of BS Software Engineering at Institute of Management Sciences(IMSciences), Peshawar !!</h3>
+<h2 align="center">A Passionate Full-Stack Developer from Pakistan !!</h2>
 <hr/>
 
 
